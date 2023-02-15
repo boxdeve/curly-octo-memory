@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-image: url(assets/background.svg);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -41,7 +41,7 @@ a:visited {
 
 .game {
     border-color: #74332d;
-    background-image: url('https://raw.githubusercontent.com/boxdeve/echo-public-citizen/main/assets/button.png');
+    background-image: url('assets/button.svg');
     border-style: outset;
     border-width: 6px;
     padding: 20px;
