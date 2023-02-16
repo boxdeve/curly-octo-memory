@@ -50,7 +50,7 @@ a:visited {
 
 .toolbar{
     column-count: 5;
-    background-color: #545454;
+    background-image: url('assets/texture.svg');
     width: 99%;
     margin: auto;
     border-color: #424242;
